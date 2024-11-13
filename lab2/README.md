@@ -18,11 +18,7 @@ Un cliente ha solicitado un proyecto tecnológico para implementar un sistema de
 
 Pregunta para los estudiantes: ¿Qué crees que podría haber sido diferente si el equipo hubiera comenzado con una adecuada planificación y organización del proyecto?
 
-Si el equipo hubiera iniciado el proyecto de IoT con una planificación adecuada, el resultado podría haber sido muy distinto. Con una organización previa, habrían podido
-definir claramente los objetivos y el alcance,
-crear una Estructura de Desglose del Trabajo (EDT),
-establecer un cronograma con hitos y tareas clave y
-asignar recursos de forma efectiva
+*Si el equipo hubiera iniciado el proyecto de IoT con una planificación adecuada, el resultado podría haber sido muy distinto. Con una organización previa, habrían podido definir claramente los objetivos y el alcance, crear una Estructura de Desglose del Trabajo (EDT), establecer un cronograma con hitos y tareas clave y asignar recursos de forma efectiva.*
 
 **Duración:** 2 horas
 
@@ -50,6 +46,12 @@ asignar recursos de forma efectiva
 
     - Define objetivos SMART para el proyecto de IoT.
     - Establecer el alcance del proyecto: definir claramente lo que incluye y lo que no, con ejemplos claros.
+
+        - ***Específico:** Definir las necesidades del cliente, por ejemplo, la monitorización en tiempo real de las máquinas en su fábrica.*
+        - ***Medible:** Especificar métricas de éxito, como un tiempo de inactividad reducido del 20%.*
+        - ***Alcanzable:** Asegurarse de que el proyecto es realizable dentro del presupuesto y el plazo.*
+        - ***Relevante:** Alinear el proyecto con la estrategia del cliente.*
+        - ***Temporal:** Plantear una fecha de entrega específica, por ejemplo, dentro de seis meses.*
 
 3. Creación de la EDT (25 minutos)
     - Desglosa el trabajo en tareas manejables utilizando una plantilla de EDT.
