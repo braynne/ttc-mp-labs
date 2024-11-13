@@ -46,6 +46,7 @@ El equipo técnico debe ahora planificar las diferentes fases del ciclo de vida 
         |    Planificación     |    El gerente de proyectos es designado y los objetivos son establecidos: reducir tiempos de entrega y mejorar el seguimiento de envíos.|
         |    Ejecución         |    Se define el alcance del proyecto, los interesados clave y el equipo que participará.|
         |    Control           |    El equipo técnico debe ahora planificar las diferentes fases del ciclo de vida del proyecto, identificar los entregables en cada fase y garantizar que se ejecuten todas las actividades dentro del tiempo y los costos estimados.|
+        |    Cierre            |    Se entregan los informes finales, se liberan los recursos y se realiza una evaluación del proyecto, destacando aprendizajes y posibles mejoras para proyectos futuros.|
 
 3. Análisis de Proyectos y Operaciones Continuas (40 minutos)
     - En esta actividad, deberás diferenciar entre proyectos y operaciones continuas. A partir de una lista de actividades que se te proporcionará (por ejemplo, el mantenimiento regular de un servidor versus la implementación de un nuevo sistema), clasifica cada una como un "proyecto" o una "operación continua". Explica brevemente por qué cada una pertenece a esa categoría.
