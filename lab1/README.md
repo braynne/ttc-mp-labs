@@ -40,7 +40,7 @@ El equipo técnico debe ahora planificar las diferentes fases del ciclo de vida 
 2. Identificación de fases y entregables (40 minutos)
     - Utilizando el caso de "TransLog", completa una tabla en la que identifiques cada una de las fases del ciclo de vida del proyecto. Deberás describir los entregables específicos que corresponden a cada fase.
 
-|Fase del ciclo de vida|    Entregable                |
+    |Fase del ciclo de vida|    Entregable                |
 |----------------------|------------------------------|
 |    Inicio            |    La empresa de logística "TransLog" decide implementar un nuevo sistema de gestión para mejorar la eficiencia operativa.|
 |    Planificación     |    El gerente de proyectos es designado y los objetivos son establecidos: reducir tiempos de entrega y mejorar el seguimiento de envíos.|
