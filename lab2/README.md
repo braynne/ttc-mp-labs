@@ -18,6 +18,12 @@ Un cliente ha solicitado un proyecto tecnológico para implementar un sistema de
 
 Pregunta para los estudiantes: ¿Qué crees que podría haber sido diferente si el equipo hubiera comenzado con una adecuada planificación y organización del proyecto?
 
+Si el equipo hubiera iniciado el proyecto de IoT con una planificación adecuada, el resultado podría haber sido muy distinto. Con una organización previa, habrían podido
+definir claramente los objetivos y el alcance,
+crear una Estructura de Desglose del Trabajo (EDT),
+establecer un cronograma con hitos y tareas clave y
+asignar recursos de forma efectiva
+
 **Duración:** 2 horas
 
 **Objetivos del Laboratorio:**
