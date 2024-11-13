@@ -35,14 +35,13 @@ El equipo técnico debe ahora planificar las diferentes fases del ciclo de vida 
 **Estructura del Laboratorio:**
 
 1. Introducción al Ciclo de Vida del Proyecto (20 minutos):
-  - Lee el material sobre las fases del ciclo de vida de un proyecto (inicio, planificación, ejecución, control y cierre). Presta especial atención a la descripción de los objetivos y entregables en cada fase.
+    - Lee el material sobre las fases del ciclo de vida de un proyecto (inicio, planificación, ejecución, control y cierre). Presta especial atención a la descripción de los objetivos y entregables en cada fase.
 
 2. Identificación de fases y entregables (40 minutos)
-  - Utilizando el caso de "TransLog", completa una tabla en la que identifiques cada una de las fases del ciclo de vida del proyecto. Deberás describir los entregables específicos que corresponden a cada fase.
+    - Utilizando el caso de "TransLog", completa una tabla en la que identifiques cada una de las fases del ciclo de vida del proyecto. Deberás describir los entregables específicos que corresponden a cada fase.
 
 3. Análisis de Proyectos y Operaciones Continuas (40 minutos)
-  - En esta actividad, deberás diferenciar entre proyectos y operaciones continuas. A partir de una lista de actividades que se te proporcionará (por ejemplo, el mantenimiento regular de un servidor versus la implementación de un nuevo sistema), clasifica cada una como un "proyecto" o una "operación continua". Explica brevemente por qué cada una pertenece a esa categoría.
+    - En esta actividad, deberás diferenciar entre proyectos y operaciones continuas. A partir de una lista de actividades que se te proporcionará (por ejemplo, el mantenimiento regular de un servidor versus la implementación de un nuevo sistema), clasifica cada una como un "proyecto" o una "operación continua". Explica brevemente por qué cada una pertenece a esa categoría.
 
 4. Conclusión y Reflexión (20 minutos)
-
-  - Reflexiona sobre el ciclo de vida del proyecto y su aplicación en proyectos tecnológicos. Escribe un breve párrafo donde menciones la importancia de identificar correctamente las fases y los entregables en un proyecto, y cómo la planificación adecuada reduce riesgos y optimiza los recursos.
+    - Reflexiona sobre el ciclo de vida del proyecto y su aplicación en proyectos tecnológicos. Escribe un breve párrafo donde menciones la importancia de identificar correctamente las fases y los entregables en un proyecto, y cómo la planificación adecuada reduce riesgos y optimiza los recursos.
