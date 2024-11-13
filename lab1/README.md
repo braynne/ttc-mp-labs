@@ -41,11 +41,11 @@ El equipo técnico debe ahora planificar las diferentes fases del ciclo de vida 
     - Utilizando el caso de "TransLog", completa una tabla en la que identifiques cada una de las fases del ciclo de vida del proyecto. Deberás describir los entregables específicos que corresponden a cada fase.
 
     |Fase del ciclo de vida|    Entregable                |
-|----------------------|------------------------------|
-|    Inicio            |    La empresa de logística "TransLog" decide implementar un nuevo sistema de gestión para mejorar la eficiencia operativa.|
-|    Planificación     |    El gerente de proyectos es designado y los objetivos son establecidos: reducir tiempos de entrega y mejorar el seguimiento de envíos.|
-|    Ejecución         |    Se define el alcance del proyecto, los interesados clave y el equipo que participará.|
-|    Control           |    El equipo técnico debe ahora planificar las diferentes fases del ciclo de vida del proyecto, identificar los entregables en cada fase y garantizar que se ejecuten todas las actividades dentro del tiempo y los costos estimados.|
+    |----------------------|------------------------------|
+    |    Inicio            |    La empresa de logística "TransLog" decide implementar un nuevo sistema de gestión para mejorar la eficiencia operativa.|
+    |    Planificación     |    El gerente de proyectos es designado y los objetivos son establecidos: reducir tiempos de entrega y mejorar el seguimiento de envíos.|
+    |    Ejecución         |    Se define el alcance del proyecto, los interesados clave y el equipo que participará.|
+    |    Control           |    El equipo técnico debe ahora planificar las diferentes fases del ciclo de vida del proyecto, identificar los entregables en cada fase y garantizar que se ejecuten todas las actividades dentro del tiempo y los costos estimados.|
 
 3. Análisis de Proyectos y Operaciones Continuas (40 minutos)
     - En esta actividad, deberás diferenciar entre proyectos y operaciones continuas. A partir de una lista de actividades que se te proporcionará (por ejemplo, el mantenimiento regular de un servidor versus la implementación de un nuevo sistema), clasifica cada una como un "proyecto" o una "operación continua". Explica brevemente por qué cada una pertenece a esa categoría.
