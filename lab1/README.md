@@ -51,5 +51,9 @@ El equipo técnico debe ahora planificar las diferentes fases del ciclo de vida 
 3. Análisis de Proyectos y Operaciones Continuas (40 minutos)
     - En esta actividad, deberás diferenciar entre proyectos y operaciones continuas. A partir de una lista de actividades que se te proporcionará (por ejemplo, el mantenimiento regular de un servidor versus la implementación de un nuevo sistema), clasifica cada una como un "proyecto" o una "operación continua". Explica brevemente por qué cada una pertenece a esa categoría.
 
+        |    Actividades                                |    Tipo                  |    Explicación                                      |
+        |    El mantenimiento regular de un servidor    |    Operación continua    |    Es una tarea repetitiva que no tiene un final    |
+        |    La implementación de un nuevo sistema      |    Proyecto              |    Cumplen con un entregable y tiene final          |
+
 4. Conclusión y Reflexión (20 minutos)
     - Reflexiona sobre el ciclo de vida del proyecto y su aplicación en proyectos tecnológicos. Escribe un breve párrafo donde menciones la importancia de identificar correctamente las fases y los entregables en un proyecto, y cómo la planificación adecuada reduce riesgos y optimiza los recursos.
