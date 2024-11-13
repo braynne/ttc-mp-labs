@@ -37,22 +37,22 @@ Pregunta para los estudiantes: ¿Qué crees que podría haber sido diferente si 
 **Estructura del Laboratorio:**
 
 1. Introducción y Lectura del caso (10 minutos)
-- Revisar el caso introductorio.
-- Reflexionar sobre los problemas que surgieron por la falta de planificación y organización.
+  - Revisar el caso introductorio.
+  - Reflexionar sobre los problemas que surgieron por la falta de planificación y organización.
 
 2. Definición de Objetivos y Alcance (20 minutos)
 
-- Define objetivos SMART para el proyecto de IoT.
-- Establecer el alcance del proyecto: definir claramente lo que incluye y lo que no, con ejemplos claros.
+  - Define objetivos SMART para el proyecto de IoT.
+  - Establecer el alcance del proyecto: definir claramente lo que incluye y lo que no, con ejemplos claros.
 
 3. Creación de la EDT (25 minutos)
-- Desglosa el trabajo en tareas manejables utilizando una plantilla de EDT.
-- Reflexiona sobre cómo una EDT bien estructurada facilita la organización y gestión del proyecto.
+  - Desglosa el trabajo en tareas manejables utilizando una plantilla de EDT.
+  - Reflexiona sobre cómo una EDT bien estructurada facilita la organización y gestión del proyecto.
 
 4. Cronograma y Asignación de Recursos (25 minutos)
-- Utiliza la EDT creada para generar un cronograma preliminar.
-- Asigna recursos humanos, técnicos y financieros, aplicando buenas prácticas de PMP y SCRUM.
+  - Utiliza la EDT creada para generar un cronograma preliminar.
+  - Asigna recursos humanos, técnicos y financieros, aplicando buenas prácticas de PMP y SCRUM.
 
 5. Conclusión y Reflexión (10 minutos)
-- Reflexiona sobre el proceso de planificación y organización que has seguido.
-- Identifica áreas de mejora y cómo estos conceptos impactan en el éxito del proyecto.
+  - Reflexiona sobre el proceso de planificación y organización que has seguido.
+  - Identifica áreas de mejora y cómo estos conceptos impactan en el éxito del proyecto.
