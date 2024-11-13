@@ -45,22 +45,36 @@ Pregunta para los estudiantes: ¿Qué crees que podría haber sido diferente si 
 2. Definición de Objetivos y Alcance (20 minutos)
 
     - Define objetivos SMART para el proyecto de IoT.
-    - Establecer el alcance del proyecto: definir claramente lo que incluye y lo que no, con ejemplos claros.
-
+  
         - ***Específico:** Definir las necesidades del cliente, por ejemplo, la monitorización en tiempo real de las máquinas en su fábrica.*
         - ***Medible:** Especificar métricas de éxito, como un tiempo de inactividad reducido del 20%.*
         - ***Alcanzable:** Asegurarse de que el proyecto es realizable dentro del presupuesto y el plazo.*
         - ***Relevante:** Alinear el proyecto con la estrategia del cliente.*
         - ***Temporal:** Plantear una fecha de entrega específica, por ejemplo, dentro de seis meses.*
 
+    - Establecer el alcance del proyecto: definir claramente lo que incluye y lo que no, con ejemplos claros.
+
+        *El alcance de este proyecto de IoT para la fábrica abarca todas las actividades, entregables y características específicas que serán incluidas en la implementación del sistema. Al definir el alcance con claridad, se evitan malentendidos y se establecen expectativas realistas tanto para el equipo como para el cliente. **Ejemplo:** Si el cliente pide agregar un reporte específico después de la implementación, esta solicitud se considerará un cambio de alcance, que debe ser evaluado y aprobado.*
+
+      
 3. Creación de la EDT (25 minutos)
     - Desglosa el trabajo en tareas manejables utilizando una plantilla de EDT.
+
+        *Dividir el proyecto en etapas como: análisis de requerimientos, diseño del sistema, desarrollo, pruebas y despliegue.*
+
     - Reflexiona sobre cómo una EDT bien estructurada facilita la organización y gestión del proyecto.
 
-4. Cronograma y Asignación de Recursos (25 minutos)
+        *Dentro de cada etapa, definir tareas más pequeñas, como: “Instalación de sensores”, “Desarrollo de la app de monitoreo”, “Pruebas de integración”.*
+      
+3. Cronograma y Asignación de Recursos (25 minutos)
     - Utiliza la EDT creada para generar un cronograma preliminar.
+
+        *Usando la EDT, construir un cronograma preliminar con fechas y plazos estimados.*
+
     - Asigna recursos humanos, técnicos y financieros, aplicando buenas prácticas de PMP y SCRUM.
 
-5. Conclusión y Reflexión (10 minutos)
+    
+
+3. Conclusión y Reflexión (10 minutos)
     - Reflexiona sobre el proceso de planificación y organización que has seguido.
     - Identifica áreas de mejora y cómo estos conceptos impactan en el éxito del proyecto.
