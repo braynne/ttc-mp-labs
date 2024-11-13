@@ -52,6 +52,7 @@ El equipo técnico debe ahora planificar las diferentes fases del ciclo de vida 
     - En esta actividad, deberás diferenciar entre proyectos y operaciones continuas. A partir de una lista de actividades que se te proporcionará (por ejemplo, el mantenimiento regular de un servidor versus la implementación de un nuevo sistema), clasifica cada una como un "proyecto" o una "operación continua". Explica brevemente por qué cada una pertenece a esa categoría.
 
         |    Actividades                                |    Tipo                  |    Explicación                                      |
+        |-----------------------------------------------|--------------------------|-----------------------------------------------------|
         |    El mantenimiento regular de un servidor    |    Operación continua    |    Es una tarea repetitiva que no tiene un final    |
         |    La implementación de un nuevo sistema      |    Proyecto              |    Cumplen con un entregable y tiene final          |
 
