@@ -130,4 +130,9 @@ Pregunta para los estudiantes: ¿Qué crees que podría haber sido diferente si 
 
 3. Conclusión y Reflexión (10 minutos)
     - Reflexiona sobre el proceso de planificación y organización que has seguido.
+  
+        *Reflexionar sobre el proceso de planificación muestra que una estructura organizada y detallada permite abordar proyectos complejos con menos fricciones y mayor control. Esta planificación detallada es esencial para un proyecto de IoT exitoso, ya que reduce el riesgo de retrasos y asegura una mayor satisfacción del cliente al cumplir con sus expectativas.*
+
     - Identifica áreas de mejora y cómo estos conceptos impactan en el éxito del proyecto.
+
+        *Áreas de mejora podrían incluir la realización de reuniones periódicas con el cliente para evaluar avances, adaptaciones a nuevas necesidades, y la implementación de revisiones internas constantes del progreso del proyecto.*
