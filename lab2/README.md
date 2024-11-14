@@ -101,9 +101,11 @@ Pregunta para los estudiantes: ¿Qué crees que podría haber sido diferente si 
 
         *Una EDT bien estructurada facilita la organización y gestión al dividir el proyecto en tareas manejables. Esto permite identificar dependencias, planificar mejor los tiempos, y asignar recursos de manera óptima, previniendo sobrecostes y retrasos.*
       
-3. Cronograma y Asignación de Recursos (25 minutos)
+4. Cronograma y Asignación de Recursos (25 minutos)
     - Utiliza la EDT creada para generar un cronograma preliminar.
 
+       ***Cronograma:***
+      
        | Tarea                        | Duración  | Inicio    | Fin       |
        |------------------------------|-----------|-----------|-----------|
        | Planificación del Proyecto   | 2 semanas | Semana 1  | Semana 2  |
@@ -128,7 +130,7 @@ Pregunta para los estudiantes: ¿Qué crees que podría haber sido diferente si 
         
         ***Financieros:** Presupuesto destinado a la compra de equipo, pago al personal, y contingencias.*
 
-3. Conclusión y Reflexión (10 minutos)
+5. Conclusión y Reflexión (10 minutos)
     - Reflexiona sobre el proceso de planificación y organización que has seguido.
   
         *Reflexionar sobre el proceso de planificación muestra que una estructura organizada y detallada permite abordar proyectos complejos con menos fricciones y mayor control. Esta planificación detallada es esencial para un proyecto de IoT exitoso, ya que reduce el riesgo de retrasos y asegura una mayor satisfacción del cliente al cumplir con sus expectativas.*
