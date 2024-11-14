@@ -104,11 +104,29 @@ Pregunta para los estudiantes: ¿Qué crees que podría haber sido diferente si 
 3. Cronograma y Asignación de Recursos (25 minutos)
     - Utiliza la EDT creada para generar un cronograma preliminar.
 
-        *Usando la EDT, construir un cronograma preliminar con fechas y plazos estimados.*
+       | Tarea                        | Duración  | Inicio    | Fin       |
+       |------------------------------|-----------|-----------|-----------|
+       | Planificación del Proyecto   | 2 semanas | Semana 1  | Semana 2  |
+       | Instalación de Hardware      | 4 semanas | Semana 3  | Semana 6  |
+       | Desarrollo de Software       | 8 semanas | Semana 3  | Semana 10 |
+       | Capacitación y Documentación | 2 Semanas | Semana 11 | Semana 12 |
+       | Cierre del Proyecto          | 1 Semanas | Semana 13 | Semana 13 |
 
     - Asigna recursos humanos, técnicos y financieros, aplicando buenas prácticas de PMP y SCRUM.
 
-    
+        ***Humanos:***
+
+        - *Un gestor de proyecto para supervisar todo el proceso.*
+        - *Ingenieros de hardware para la instalación de sensores.*
+        - *Desarrolladores de software para la plataforma de monitoreo.*
+        - *Especialistas en formación para capacitar al personal de la fábrica.*
+
+        ***Técnicos:***
+
+        - *Sensores específicos para cada tipo de maquinaria.*
+        - *Servidores para el almacenamiento de datos y ejecución de la plataforma.*
+        
+        ***Financieros:** Presupuesto destinado a la compra de equipo, pago al personal, y contingencias.*
 
 3. Conclusión y Reflexión (10 minutos)
     - Reflexiona sobre el proceso de planificación y organización que has seguido.
