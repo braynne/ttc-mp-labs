@@ -58,6 +58,7 @@ Pregunta para los estudiantes: ¿Qué crees que podría haber sido diferente si 
         - *Instalación de sensores IoT en la maquinaria clave de la fábrica.*
         - *Configuración de una plataforma de monitoreo para la visualización de datos en tiempo real.*
         - *Entrenamiento del personal en el uso y mantenimiento básico del sistema.*
+        
         ***No incluye:***
         - *La actualización de la maquinaria en sí.*
         - *La integración con otros sistemas no relacionados con el monitoreo de maquinaria.*
