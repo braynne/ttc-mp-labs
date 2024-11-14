@@ -46,25 +46,59 @@ Pregunta para los estudiantes: ¿Qué crees que podría haber sido diferente si 
 
     - Define objetivos SMART para el proyecto de IoT.
   
-        - ***Específico:** Definir las necesidades del cliente, por ejemplo, la monitorización en tiempo real de las máquinas en su fábrica.*
-        - ***Medible:** Especificar métricas de éxito, como un tiempo de inactividad reducido del 20%.*
-        - ***Alcanzable:** Asegurarse de que el proyecto es realizable dentro del presupuesto y el plazo.*
-        - ***Relevante:** Alinear el proyecto con la estrategia del cliente.*
-        - ***Temporal:** Plantear una fecha de entrega específica, por ejemplo, dentro de seis meses.*
+        - ***Específico (Specific):** Crear un sistema de IoT que permita la monitorización en tiempo real de la maquinaria en la fábrica del cliente.*
+        - ***Medible (Measurable):** El sistema debe proporcionar datos actualizados cada 30 segundos, y las alertas deben activarse en menos de 5 segundos tras detectar un fallo.*
+        - ***Alcanzable (Achievable):** Utilizar tecnología probada y personal capacitado para implementar sensores y una plataforma de monitoreo en la fábrica.*
+        - ***Relevante (Relevant):** Este proyecto debe reducir el tiempo de inactividad de las máquinas en al menos un 15%.*
+        - ***Temporal (Time-bound):** El sistema IoT estará completamente operativo en un plazo de 6 meses a partir de la aprobación del proyecto.*
 
     - Establecer el alcance del proyecto: definir claramente lo que incluye y lo que no, con ejemplos claros.
 
-        *El alcance de este proyecto de IoT para la fábrica abarca todas las actividades, entregables y características específicas que serán incluidas en la implementación del sistema. Al definir el alcance con claridad, se evitan malentendidos y se establecen expectativas realistas tanto para el equipo como para el cliente. **Ejemplo:** Si el cliente pide agregar un reporte específico después de la implementación, esta solicitud se considerará un cambio de alcance, que debe ser evaluado y aprobado.*
-
+        ***Incluye:***
+        - *Instalación de sensores IoT en la maquinaria clave de la fábrica.*
+        - *Configuración de una plataforma de monitoreo para la visualización de datos en tiempo real.*
+        - *Entrenamiento del personal en el uso y mantenimiento básico del sistema.*
+        ***No incluye:***
+        - *La actualización de la maquinaria en sí.*
+        - *La integración con otros sistemas no relacionados con el monitoreo de maquinaria.*
+        - *Mantenimiento del sistema IoT después de su implementación inicial.*
       
 3. Creación de la EDT (25 minutos)
+
     - Desglosa el trabajo en tareas manejables utilizando una plantilla de EDT.
 
-        *Dividir el proyecto en etapas como: análisis de requerimientos, diseño del sistema, desarrollo, pruebas y despliegue.*
+        ***Planificación del Proyecto***
 
+        - *Reuniones de inicio con el cliente*
+        - *Definición de objetivos y requisitos*
+        - *Establecimiento de presupuesto y cronograma*
+        
+        ***Instalación de Hardware***
+
+        - *Compra de sensores y equipos necesarios*
+        - *Instalación de sensores en la maquinaria*
+        - *Configuración y prueba del hardware*
+        
+        ***Desarrollo de Software***
+
+        - *Diseño de la plataforma de monitoreo*
+        - *Configuración de alertas y notificaciones*
+        - *Pruebas de software para asegurar precisión*
+
+        ***Capacitación y Documentación***
+
+        - *Creación de manuales de usuario*
+        - *Sesiones de capacitación para el personal de la fábrica*
+
+        ***Cierre del Proyecto***
+
+        - *Revisión final del sistema*
+        - *Transferencia de la propiedad del sistema al cliente*
+        - *Revisión y lecciones aprendidas*
+   
     - Reflexiona sobre cómo una EDT bien estructurada facilita la organización y gestión del proyecto.
 
-        *Dentro de cada etapa, definir tareas más pequeñas, como: “Instalación de sensores”, “Desarrollo de la app de monitoreo”, “Pruebas de integración”.*
+        *Una EDT bien estructurada facilita la organización y gestión al dividir el proyecto en tareas manejables. Esto permite identificar dependencias, planificar mejor los tiempos, y asignar recursos de manera óptima, previniendo sobrecostes y retrasos.*
       
 3. Cronograma y Asignación de Recursos (25 minutos)
     - Utiliza la EDT creada para generar un cronograma preliminar.
